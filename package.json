@@ -1,0 +1,11 @@
+{
+  "name": "nodepatterns",
+  "version": "1.0.0",
+  "description": "Just a couple of nodejs programs depicting best practices for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apurvjain17",
+  "license": "ISC"
+}
